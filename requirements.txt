@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+cffi==1.14.0
+cryptography==2.8
+Django==2.2.10
+django-rest-auth==0.9.5
+=======
+Django==2.2.10
+>>>>>>> ace1f72d5ba22d4b0e46c9c090b7d6ae00d20e70
+djangorestframework==3.11.0
+pycparser==2.19
+pytz==2019.3
+six==1.14.0
+sqlparse==0.3.1
